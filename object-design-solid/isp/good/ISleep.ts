@@ -1,0 +1,3 @@
+interface ISeep {
+   sleep(): void
+}

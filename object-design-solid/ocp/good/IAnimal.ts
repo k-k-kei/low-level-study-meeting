@@ -1,0 +1,3 @@
+interface IAnimal {
+   makeSound(): string
+}
