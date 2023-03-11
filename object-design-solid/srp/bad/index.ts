@@ -5,3 +5,8 @@ class Employee {
 
     save() {}
 }
+
+const employee = new Employee;
+employee.calculatePay;
+employee.reporyHours;
+employee.save;
